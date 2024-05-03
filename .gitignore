@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MyRepo/FileContentIndex
+/.vs/MyRepo/v17
+/.vs
+/CollectionViewTest/.vs
+/CollectionViewTest/CollectionViewTest/CollectionViewTest/bin/x64/Debug/net7.0-windows10.0.22621.0
+/CollectionViewTest/CollectionViewTest/CollectionViewTest/obj
